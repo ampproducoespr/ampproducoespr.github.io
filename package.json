@@ -1,0 +1,29 @@
+{
+  "name": "site-amp",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ampproducoespr/ampproducoespr.github.io.git"
+  },
+  "author": "Julio Lozovei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ampproducoespr/ampproducoespr.github.io/issues"
+  },
+  "homepage": "https://github.com/ampproducoespr/ampproducoespr.github.io#readme",
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.0.1"
+  },
+  "dependencies": {},
+  "description": ""
+}
